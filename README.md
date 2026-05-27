@@ -4,12 +4,12 @@
 
 
 ## Componentes
-ESP32 
-Display OLED I2C
-3 micro servos
-Protoboard
-5 botões
-LEDs coloridos
-Resistores
-
+- ESP32
+- Display OLED I2C
+- 3 micro servos
+- Protoboard
+- 5 botões (PUSHBUTTON)
+- LEDs coloridos
+- Resistores
+- 
 ## Conclusões
