@@ -1,7 +1,8 @@
-# Projeto IoT - 3 MOTORES 
+# Projeto IoT - 3 MOTORES ⚙️ 
 O projeto simula um sistema eletrônico de controle de acesso inteligente. Ele integra componentes eletrônicos para criar uma interface simples e funcional, permitindo visualizar informações no display, controlar estados com botões e representar mecanicamente a abertura e fechamento das portas através do servo motor. 
 
-## Sobre o Projeto
+## Sobre o Projeto 📚
+
 A atividade propõe o desenvolvimento de um protótipo de controle de acesso para três portas utilizando um ESP32, display OLED, botões, LEDs e servo motor. O objetivo é sim ular o funcionamento de um sistema de segurança que controla o acesso a diferentes ambientes de uma instituição.
 Cada porta representa um ambiente específico:
 
@@ -16,7 +17,8 @@ Quando a porta estiver:
 Bloqueada → servo em 0°
 Liberada → servo em 90°
 
-## Componentes
+## Componentes 📚
+
 - ESP32
 - Display OLED I2C
 - 3 micro servos
@@ -25,7 +27,7 @@ Liberada → servo em 90°
 - LEDs coloridos
 - Resistores
 - 
-## Conclusões
+## Conclusão ✅
 
 O desenvolvimento deste projeto permitiu compreender, na prática, o funcionamento de um sistema de controle de acesso utilizando o ESP32 e componentes eletrônicos integrados. Durante a atividade, foi possível aprender sobre automação, lógica de programação, acionamento de servo motor, leitura de botões, utilização de LEDs para sinalização e exibição de informações no display OLED.
 
