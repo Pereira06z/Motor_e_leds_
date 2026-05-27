@@ -4,7 +4,7 @@
 
 
 ## Componentes
-ESP32
+ESP32 
 Display OLED I2C
 3 micro servos
 Protoboard
